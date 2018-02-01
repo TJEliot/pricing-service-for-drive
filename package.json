@@ -1,0 +1,17 @@
+{
+  "name": "pricing-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pricing.js",
+  "scripts": {
+    "start": "nodemon pricing.js"
+  },
+  "author": "Thomas Eliot",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0",
+    "url": "^0.11.0"
+  }
+}
